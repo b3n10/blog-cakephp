@@ -1,5 +1,4 @@
 <?php
-die('test heroku');
 /**
  * The Front Controller for handling every request
  *
