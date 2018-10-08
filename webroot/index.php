@@ -1,6 +1,4 @@
 <?php
-var_dump('test');
-die();
 /**
  * The Front Controller for handling every request
  *
