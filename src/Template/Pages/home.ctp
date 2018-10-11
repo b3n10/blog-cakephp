@@ -46,6 +46,8 @@ use Cake\Network\Exception\NotFoundException;
 </head>
 <body class="home">
 
+<a href="https://book.cakephp.org/3.0/en/development/configuration.html">Progress</a>
+
 <header class="row">
     <div class="header-image"><?= $this->Html->image('cake.logo.svg') ?></div>
     <div class="header-title">
